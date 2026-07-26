@@ -1,0 +1,4 @@
+interface:
+  display_name: "BASIS K–G12 自学导师"
+  short_description: "按贝赛思常见课程路线，用多种方法讲透数学和英语难点"
+  default_prompt: "使用 $basis-k12-tutor 辅导我理解这道题；先判断知识点，再用不同方法讲解并检查我是否真的掌握。"
